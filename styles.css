@@ -53,16 +53,6 @@ header {
   text-decoration: none;
 }
 
-.brand-logo-wrap {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  background: #ffffff;
-  border-radius: 8px;
-  padding: 0.35rem 0.5rem;
-  line-height: 0;
-}
-
 .brand-logo {
   height: 44px;
   width: auto;
